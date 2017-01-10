@@ -1,5 +1,5 @@
 # Class-Work-with-R
-This is analysis I've done using R for my classes
+Analysis I've done using R for my classes
 
 The work I've done here have either been for class projects, or class articles. Unfortunetly, I cannot share those pieces. 
 That said, I can provide some of the R code that I've used, so each file, is typically for a different project. 
